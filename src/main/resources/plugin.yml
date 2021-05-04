@@ -1,0 +1,10 @@
+name: VotesAIO
+version: 1.0
+description: An all-in-one plugin for everything vote related
+author: joeleoli
+main: com.minexd.votesaio.VotesAIO
+depend:
+  - Cubed
+  - CoreXD
+  - Rift
+  - Votifier

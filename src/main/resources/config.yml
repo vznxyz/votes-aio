@@ -1,0 +1,19 @@
+vote-links:
+  - ""
+  - " &b&lVoting Links"
+  - " &7Vote for our server at each link to"
+  - " &7receive awesome perks and rewards!"
+  - ""
+  - " &7● &a&ohttps://minecraft-mp.com/server/285523/vote/"
+  - " &7● &a&ohttps://minecraft-server.net/vote/MineXD/"
+  - " &7● &a&ohttps://minecraftservers.org/vote/613201"
+  - " &7● &a&ohttps://minecraft-server-list.com/server/476469/vote/"
+  - ""
+
+vote-party-enabled: false
+vote-party-progress: 0
+vote-party-goal: 100
+vote-party-commands: []
+
+rewards-enabled: false
+reward-sets: {}
